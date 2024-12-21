@@ -8,12 +8,12 @@ A project to automate the generation of personalized proposals for members of th
 3. Mail merge setup for automating the creation of tailored proposals.
 4. Final folder containing personalized proposals for all assembly members.
 
-#Technologies Used:
+# Technologies Used:
 
 Microsoft Excel
 Microsoft Word (Mail Merge)
 
-#Learning Outcomes:
+# Learning Outcomes:
 
 Streamlined data-driven document personalization.
 Improved automation and communication skills in a professional context.
