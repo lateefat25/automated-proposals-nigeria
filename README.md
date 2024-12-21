@@ -11,9 +11,11 @@ A project to automate the generation of personalized proposals for members of th
 # Technologies Used:
 
 Microsoft Excel
+
 Microsoft Word (Mail Merge)
 
 # Learning Outcomes:
 
 Streamlined data-driven document personalization.
+
 Improved automation and communication skills in a professional context.
